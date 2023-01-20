@@ -44,3 +44,5 @@ Ahi va Mario
 Esta es la modificación que hizo el usuario 1 desde pc
 
 Esta es la primera edicion 
+
+Esta es la ediccion desde gitkraken 
